@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 gallery:
-  - image_path: http://imgur.com/52uI3fF
+  - image_path: https://i.imgur.com/52uI3fF.jpg
 ---
 
 Hello world
