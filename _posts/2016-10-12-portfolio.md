@@ -1,13 +1,11 @@
 ---
 title: "Portfolio"
 gallery:
-  - url: 1.jpg
-    image_path: 1.jpg
-    title: "1"
+  - image_path: http://imgur.com/52uI3fF
 ---
 
 Hello world
 
-{% include gallery caption="Hello, this is a caption. ur a winner" %}
+{% include gallery class="full" %}
 
 And for giggles another comment.
