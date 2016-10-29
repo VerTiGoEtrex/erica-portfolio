@@ -28,9 +28,3 @@ gulp.task('makeThumbImages', function() {
 });
 
 gulp.task('makeImages', ['makeFullImages', 'makeThumbImages'])
-
-gulp.task('makeMidHtml', function() {
-  gulp.src('images/full/*.jpg')
-    .pipe(print())
-    .pipe(sizeOf);
-})

@@ -485,7 +485,7 @@ var parallelism = (function($) { var _ = {
 						popupCloserText: '',
 						popupLoaderText: '',
 						selector: '.thumb a.image',
-						usePopupCaption: true,
+						usePopupCaption: false,
 						usePopupCloser: false,
 						usePopupDefaultStyling: false,
 						usePopupNav: true
